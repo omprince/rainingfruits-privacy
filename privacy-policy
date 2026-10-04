@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Raining Fruits – Privacy Policy</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; line-height: 1.6;
+         max-width: 760px; margin: 0 auto; padding: 24px 16px 64px; color: #1d1d2b; background: #fff; }
+  h1 { font-size: 1.8rem; margin-bottom: 0.2em; }
+  h2 { font-size: 1.2rem; margin-top: 2em; }
+  .meta { color: #666; margin-top: 0; }
+  a { color: #1a5fd0; }
+  @media (prefers-color-scheme: dark) {
+    body { background: #14142e; color: #e8e8f2; } .meta { color: #a0a0b8; } a { color: #8ab4ff; }
+  }
+</style>
+</head>
+<body>
+<h1>Raining Fruits – Privacy Policy</h1>
+<p class="meta">Last updated: 4 October 2026</p>
+
+<p>Raining Fruits ("the app", "the game") is a casual fruit game for Android, suitable for children and
+families. This policy explains what information the app uses and how it is handled. We keep it simple:
+<strong>we do not ask you to create an account, and we do not collect your name, email address, phone number
+or precise location.</strong></p>
+
+<h2>1. Information that stays on your device</h2>
+<p>The game saves the following only in the app's private storage on your device. It is never sent to us or
+to any server we operate:</p>
+<ul>
+  <li>Game progress: unlocked levels, stars and high scores.</li>
+  <li>Player names you type in Continuous mode, and the scores for each name. You can use a nickname; no real
+      name is needed.</li>
+  <li>Your settings (music, sound effects, voice and vibration on or off, volume).</li>
+</ul>
+<p>Uninstalling the app, or clearing its storage in Android settings, deletes all of this.</p>
+
+<h2>2. Advertising (Google AdMob)</h2>
+<p>The app shows ads through Google AdMob: a banner on the menu and level-map screens, and occasional
+full-screen or optional rewarded video ads (for example, to earn an extra heart). Ads are never shown while
+you are playing a level.</p>
+<p>Because the app is intended for use by children, we configure every ad request as follows:</p>
+<ul>
+  <li>Treated as <strong>child-directed</strong> and for users under the age of consent, in line with COPPA,
+      GDPR and the Google Play Families Policy.</li>
+  <li>Ad content limited to the <strong>G (General audiences)</strong> maximum rating.</li>
+  <li><strong>No personalized advertising</strong> and no interest-based ads.</li>
+  <li>The app does <strong>not</strong> use or request the Android Advertising ID (the <code>AD_ID</code>
+      permission is removed).</li>
+</ul>
+<p>To deliver and measure ads, and to prevent fraud, Google's SDK may process technical information such as
+your IP address, device and OS type, and diagnostic or performance data. We do not receive or control this
+data. Google's handling of it is described in the
+<a href="https://policies.google.com/privacy">Google Privacy Policy</a>.</p>
+
+<h2>3. Internet access</h2>
+<p>The app uses the internet only to load ads. The game itself works offline.</p>
+
+<h2>4. Permissions</h2>
+<ul>
+  <li><strong>Internet</strong>: to load ads.</li>
+  <li><strong>Vibrate</strong>: a short buzz when a life is lost (can be switched off in Settings).</li>
+</ul>
+<p>The app does not access your contacts, camera, microphone, photos, files or location.</p>
+
+<h2>5. Voice and text-to-speech</h2>
+<p>Fruit names are spoken using audio clips bundled with the app. If a clip is missing, the app may use
+Android's built-in text-to-speech engine on your device. The app does not record audio.</p>
+
+<h2>6. Children's privacy</h2>
+<p>Raining Fruits is designed to be safe for children. We do not knowingly collect personal information from
+anyone, including children under 13 (or the equivalent age in your country). The only third-party service in
+the app is Google AdMob, configured for child-directed treatment as described above. If you believe a child
+has provided personal information through the app, contact us and we will help resolve it.</p>
+
+<h2>7. Data sharing and security</h2>
+<p>We do not sell, rent or share personal information, because we do not collect any. Game data lives in your
+device's private app storage, protected by Android's app sandbox.</p>
+
+<h2>8. Your choices</h2>
+<ul>
+  <li>Delete all local data by clearing the app's storage or uninstalling it.</li>
+  <li>Turn off vibration, voice and sound in the app's Settings.</li>
+  <li>Parents can manage ad and privacy options for a child's device in Google Play settings and Google Family
+      Link.</li>
+</ul>
+
+<h2>9. Changes to this policy</h2>
+<p>If we change this policy, we will update the date at the top of this page. Significant changes, such as
+adding a new third-party service, will be reflected here before they take effect.</p>
+
+<h2>10. Contact us</h2>
+<p>Questions or requests about this policy or the app:<br>
+Email: <a href="mailto:pranavkumar0234@gmail.com">pranavkumar0234@gmail.com</a></p>
+</body>
+</html>
